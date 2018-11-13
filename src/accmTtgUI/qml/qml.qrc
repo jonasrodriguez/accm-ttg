@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Dashboard.qml</file>
+        <file>SideBar.qml</file>
+        <file>images/werfenIcon.png</file>
+        <file>images/RefreshIcon.png</file>
+        <file>Home.qml</file>
+        <file>ConversationArea.qml</file>
+        <file>elements/ConversationDelegate.qml</file>
+        <file>customControls/HomeButton.qml</file>
+        <file>customControls/SideBarButton.qml</file>
+        <file>customControls/PlusButton.qml</file>
+        <file>customControls/CVControl.qml</file>
+        <file>Message.qml</file>
+        <file>elements/MessageHeader.qml</file>
+        <file>customControls/MessageInputs.qml</file>
+        <file>customControls/CVLabel.qml</file>
+        <file>elements/MessageSelector.qml</file>
+        <file>elements/MessageBodyAck.qml</file>
+    </qresource>
+</RCC>
